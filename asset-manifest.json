@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apple_clone_build_test2/static/css/main.3c70d7db.css",
+    "main.js": "/apple_clone_build_test2/static/js/main.527ef0f8.js",
+    "index.html": "/apple_clone_build_test2/index.html",
+    "main.3c70d7db.css.map": "/apple_clone_build_test2/static/css/main.3c70d7db.css.map",
+    "main.527ef0f8.js.map": "/apple_clone_build_test2/static/js/main.527ef0f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c70d7db.css",
+    "static/js/main.527ef0f8.js"
+  ]
+}
